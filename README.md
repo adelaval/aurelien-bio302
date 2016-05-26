@@ -1,2 +1,2 @@
-# aurelien-bio302
+# poodles-bio302
 git tutorial bio302
